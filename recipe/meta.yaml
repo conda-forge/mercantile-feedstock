@@ -1,13 +1,12 @@
-{% set version = "0.9.0" %}
+{% set version = "0.10.0" %}
 
 package:
   name: mercantile
   version: {{ version }}
 
 source:
-  fn: mercantile-{{ version }}.tar.gz
-  url: https://github.com/mapbox/mercantile/archive/{{ version }}.tar.gz
-  sha256: a4b0e8f87d6a7790678be71b496a3706373fda1d740a674c308847ef609a5cbd
+  url: https://pypi.io/packages/source/m/mercantile/mercantile-{{ version }}.tar.gz
+  sha256: 4b6bdba8ed134092d6f9f040b3e4d979db3791ba6c3de94412d53c3dc2f7a8d5
 
 build:
   number: 0
