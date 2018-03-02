@@ -14,9 +14,7 @@ Summary: Spherical mercator and XYZ tile utilities.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/mercantile-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/mercantile-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/mercantile-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/mercantile-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/mercantile-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/mercantile-feedstock/branch/master)
+All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/mercantile-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/mercantile-feedstock)
 
 Current release info
 ====================
