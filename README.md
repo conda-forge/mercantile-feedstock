@@ -14,12 +14,15 @@ Summary: Spherical mercator and XYZ tile utilities.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/mercantile-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/mercantile-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/mercantile-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/mercantile-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/mercantile/badges/version.svg)](https://anaconda.org/conda-forge/mercantile)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/mercantile/badges/downloads.svg)](https://anaconda.org/conda-forge/mercantile)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-mercantile-green.svg)](https://anaconda.org/conda-forge/mercantile) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/mercantile.svg)](https://anaconda.org/conda-forge/mercantile) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/mercantile.svg)](https://anaconda.org/conda-forge/mercantile) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/mercantile.svg)](https://anaconda.org/conda-forge/mercantile) |
 
 Installing mercantile
 =====================
