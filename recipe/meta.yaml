@@ -1,4 +1,4 @@
-{% set version = "1.0.4" %}
+{% set version = "1.1.0" %}
 
 package:
   name: mercantile
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/m/mercantile/mercantile-{{ version }}.tar.gz
-  sha256: 0278b393a05d17c3618c5f5da64488bb3707e14046fe36f594d7215db3b376c4
+  sha256: a4f6f8da816c21054764f825b13e630bfff664fd2cb25a1a80e76dc476104999
 
 build:
   noarch: python
