@@ -3,11 +3,11 @@ About mercantile
 
 Home: https://github.com/sgillies/mercantile
 
-Package license: BSD 3-Clause
+Package license: BSD-3-Clause
 
 Feedstock license: BSD 3-Clause
 
-Summary: Spherical mercator and XYZ tile utilities.
+Summary: Spherical mercator and XYZ tile utilities
 
 
 
